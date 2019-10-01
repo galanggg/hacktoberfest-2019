@@ -10,7 +10,7 @@ and enter your github link inside that file, commit,
 and pull request.
 
 # Note
-- Inside `guest` folder, see `_template-yourcountry.json`.
+- Inside `guests` folder, see `_template-yourcountry.json`.
 
 # Contributors
 <a href="https://github.com/mycommunities/hacktoberfest-2019/graphs/contributors">
